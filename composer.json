@@ -29,7 +29,7 @@
 		"ext-curl":"*",
 		"ext-fileinfo":"*",
 		"ext-gd":"*",
-		"topthink/think-captcha":"1.*",
+		"topthink/think-captcha":"2.*",
 		"aliyuncs/oss-sdk-php": "~2.0",
 		"sabre/dav":"~3.2.0",
 		"upyun/sdk": "^3.3"
